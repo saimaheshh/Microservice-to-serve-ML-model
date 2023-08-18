@@ -1,4 +1,4 @@
-# Microservice using the Python Flask framework to serve a machine learning prediction model
+# Microservice using the Python Flask framework to serve a Machine Learning model
 
 Objective:
 
